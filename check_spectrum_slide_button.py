@@ -16,7 +16,7 @@ print '    Or use previous/next button to go the the neighbouring subint_index  
 
 #	check correctness of input parameters
 if (len(sys.argv) < 3):
-	print "\nusage: python check_spectrum_slide_button.py file_name, input_subt_int_index\n"
+	print "\nusage: python check_spectrum_slide_button.py file_name input_subt_int_index\n"
 	sys.exit(0)
 
 #--------------------------------------------------------
